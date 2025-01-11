@@ -2,9 +2,9 @@ import os
 import pandas as pd
 
 # Define the folder path, master file name, and output file path
-folder_path = 'D:/Project/Data Engineering/PyCharm'
-master_file_name = 'Master.csv'
-output_file_path = 'D:/Project/Data Engineering/PyCharm/MatchingRecords.csv'
+folder_path = # folder path
+master_file_name = # Master file name
+output_file_path = # output file name with path
 
 # Specify the columns in the master file for matching
 match_columns_master = ['AppId', 'Id']
